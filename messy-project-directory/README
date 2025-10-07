@@ -1,0 +1,22 @@
+# Header 1
+## Header 2
+### Header 3
+
+# Lists
+## Numbered Lists 
+1. Item 1
+2. Item 2
+3. Item 3
+
+## Bullettpointed List 
+- a
+- b
+- c
+
+# Links 
+
+[Here is a link to a website where you can bouce cats](https://cat-bounce.com/)
+
+# Images 
+
+![*Camponotus darwinii*](images/camponotus_darwinii.jpg)
